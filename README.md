@@ -53,6 +53,7 @@ Imagen 2
 ## Descripcion de los grupos
 
 Grupo 1
+
 El primer grupo cuenta con 482 instituciones, cuenta con las unicas instituciones con educacion a distancia, una tasa de admicion promedio de 67%, un promedio de precio para garantizar estadia  de 13648 dolares , la mayoria de instituciones alcanzaron  el grado mas alto de certificacion y un costo promedio de matricula de 6200 dolares.
 
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PUB|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|

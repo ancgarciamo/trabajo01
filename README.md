@@ -25,7 +25,63 @@ Esta variable nos indica cual es el mayor rango de certificacion obtenido por un
 - 4, Graduate degree
 
 ### TUITFTE
-Esta variable es el concepto de matricula
+Esta variable es el concepto de matricula el cual en promedio pagan los estudiantes.
 
-## Matriz de coorelacion
+### ADM_RATE_ALL
+Tasa promedio de todos los admitidos en la institucion
+
+### NT4_PRIV y NT4_PUB
+Estas variables excluyentes entre si , y estas indican en promedio cuanto deberia pagar un estudiante para poder garantizarse su asistencia normal a la institucion, ignorando conceptos como la matricula.
+
+
+## Matriz de Coorelacion
 Como podemos ver , usando las variables escogidas observamos que no tienen coeficientes de relacion muy altos entre ellos por ende pueden ser usados para la prediccion , en el caso de NPT4_PUB y NT4_PRIV ,son variables que son excluyentes entre si, por lo tanto , estas no tienen coorelacion entre ellas.
+
+## Primer clustering (Instituciones Publicas)
+
+Para este clustering usamos las variables previamente escogidas pero dejando de lado la variable NT4_PRIV
+
+### Curva del codo
+Usando la tecnica de la curva del codo podemos obtener un numero ideal de clusters para el modelo ,con esto vemos que el numero ideal de clusters es 4.
+
+Imagen 1
+
+### Dendrograma
+
+Imagen 2
+
+## Descripcion de los grupos
+
+Grupo 1
+
+Grupo 2
+
+Grupo 3
+
+Grupo 4
+
+
+
+## Segundo clustering (Instituciones Privadas)
+
+Para este clustering usamos las variables previamente escogidas pero dejando de lado la variable NT4_PRIV
+
+### Curva del codo
+Usando la tecnica de la curva del codo podemos obtener un numero ideal de clusters para el modelo ,con esto vemos que el numero ideal de clusters es 4.
+
+Imagen 3
+
+### Dendrograma
+
+Imagen 4
+
+## Descripcion de los grupos
+
+Grupo 1
+
+Grupo 2
+
+Grupo 3
+
+Grupo 4
+

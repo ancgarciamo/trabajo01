@@ -53,6 +53,8 @@ Imagen 2
 ## Descripcion de los grupos
 
 Grupo 1
+El primer grupo cuenta con 482 instituciones, cuenta con las unicas instituciones con educacion a distancia, una tasa de admicion promedio de 67%, un promedio de precio para garantizar estadia  de 13648 dolares , la mayoria de instituciones alcanzaron  el grado mas alto de certificacion y un costo promedio de matricula de 6200 dolares.
+
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PUB|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
 |count|482\.0|482\.0|482\.0|482\.0|482\.0|482\.0|482\.0|482\.0|482\.0|482\.0|
@@ -65,6 +67,8 @@ Grupo 1
 |max|1\.0|24891\.0|1\.0|27032\.0|0\.0|0\.0|0\.0|1\.0|0\.0|0\.0|
 
 Grupo 2
+
+El segundo grupo cuenta con 67 instituciones, no cuenta con  instituciones con educacion a distancia, una tasa de admicion promedio de 68%, un promedio de precio para garantizar estadia  de 13292 dolares , la mayoria de instituciones cuentan con el grado mas bajo ( y el resto sin certificacion) y un costo promedio de matricula de 7448 dolares.
 
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PUB|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -79,6 +83,8 @@ Grupo 2
 
 Grupo 3
 
+El tercer grupo cuenta con 75 instituciones, no cuenta con instituciones con educacion a distancia, una tasa de admicion promedio de 67%, un promedio de precio para garantizar estadia  de 11836 dolares , la mayoria de instituciones alcanzaron  el   segundo grado mas alto de certificacion y un costo promedio de matricula de 5336 dolares.
+
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PUB|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
 |count|75\.0|75\.0|75\.0|75\.0|75\.0|75\.0|75\.0|75\.0|75\.0|75\.0|
@@ -91,6 +97,8 @@ Grupo 3
 |max|0\.0|15445\.0|1\.0|22976\.0|0\.0|1\.0|0\.0|0\.0|0\.0|2\.0|
 
 Grupo 4
+
+El cuarto grupo cuenta con 46 instituciones, no cuenta con instituciones con educacion a distancia, una tasa de admicion promedio de 72%, un promedio de precio para garantizar estadia  de 7694 dolares , la mayoria de instituciones alcanzaron  el grado intermedio de certificacion y un costo promedio de matricula de 2614 dolares.
 
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PUB|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -121,6 +129,8 @@ Imagen 4
 
 Grupo 1
 
+El primer grupo cuenta con 113 instituciones, no cuenta con instituciones con educacion a distancia, una tasa de admicion promedio de 79%, un promedio de precio para garantizar estadia  de 18779 dolares ,la mayoria de instituciones cuentan con el grado mas bajo ( y el resto sin certificacion) y un costo promedio de matricula de 10124 dolares.
+
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PRIV|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
 |count|113\.0|113\.0|113\.0|113\.0|113\.0|113\.0|113\.0|113\.0|113\.0|113\.0|
@@ -133,6 +143,8 @@ Grupo 1
 |max|0\.0|36858\.0|1\.0|40545\.0|0\.0|0\.0|1\.0|0\.0|1\.0|0\.0|
 
 Grupo 2
+
+El primer grupo cuenta con 862 instituciones, cuenta con algunas instituciones con educacion a distancia, una tasa de admicion promedio de 64%, un promedio de precio para garantizar estadia  de 22163 dolares , la mayoria de instituciones alcanzaron  el grado mas alto de certificacion y un costo promedio de matricula de 15798 dolares.
 
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PRIV|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -147,6 +159,8 @@ Grupo 2
 
 Grupo 3
 
+El primer grupo cuenta con 425 instituciones,  cuenta con algunas instituciones con educacion a distancia, una tasa de admicion promedio de 70%, un promedio de precio para garantizar estadia  de 20732 dolares , la mayoria de instituciones alcanzaron  el segundo grado mas alto de certificacion y un costo promedio de matricula de 16158 dolares.
+
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PRIV|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
 |count|425\.0|425\.0|425\.0|425\.0|425\.0|425\.0|425\.0|425\.0|425\.0|425\.0|
@@ -160,6 +174,8 @@ Grupo 3
 
 Grupo 4
 
+El primer grupo cuenta con 177 instituciones,  cuenta con algunas instituciones con educacion a distancia, una tasa de admicion promedio de 81%, un promedio de precio para garantizar estadia  de 21149 dolares , la mayoria de instituciones alcanzaron  el grado intermedio de certificacion y un costo promedio de matricula de 14831 dolares.
+
 |index|DISTANCEONLY|TUITFTE|ADM\_RATE\_ALL|NPT4\_PRIV|HIGHDEG\_ Associate degree|HIGHDEG\_ Bachelor&\#39;s degree|HIGHDEG\_ Certificate degree|HIGHDEG\_ Graduate degree|HIGHDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|---|---|---|
 |count|177\.0|177\.0|177\.0|177\.0|177\.0|177\.0|177\.0|177\.0|177\.0|177\.0|
@@ -172,7 +188,7 @@ Grupo 4
 |max|1\.0|61621\.0|1\.0|72265\.0|1\.0|0\.0|0\.0|0\.0|0\.0|3\.0|
 
 ## Uso por colombianos 
-
+Para poder aplicar el mismo contexto para los colombianos se puede aplicar el mismo concepto que usando los datos abiertos de isntitituciones de educacion superior colombiana usando este [link](https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/) , poseen informacion similar a la presentada en el dataframe , asi que se podria hacer una extrapolacion al contexto colombiano y genear una app similar.
 ## Aplicacion
 
 ## Link del video 

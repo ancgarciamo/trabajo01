@@ -85,3 +85,12 @@ Grupo 3
 
 Grupo 4
 
+## Uso por colombianos 
+
+## Aplicacion
+
+## Link del video 
+
+## Conclusiones
+
+## Referencias

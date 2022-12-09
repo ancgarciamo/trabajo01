@@ -115,7 +115,7 @@ El cuarto grupo cuenta con 46 instituciones, no cuenta con instituciones con edu
 
 ## Segundo clustering (Instituciones Privadas)
 
-Para este clustering usamos las variables previamente escogidas pero dejando de lado la variable NT4_PRIV
+Para este clustering usamos las variables previamente escogidas pero dejando de lado la variable NT4_PUB
 
 ### Curva del codo
 Usando la tecnica de la curva del codo podemos obtener un numero ideal de clusters para el modelo ,con esto vemos que el numero ideal de clusters es 4.

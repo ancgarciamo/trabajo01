@@ -28,7 +28,7 @@ Esta variable nos indica cual es el mayor rango de certificacion obtenido por un
 Esta variable es el concepto de matricula el cual en promedio pagan los estudiantes.
 
 ### ADM_RATE_ALL
-Tasa promedio de todos los admitidos en la institucion
+Tasa en la cual las personas que intentan inscribirse en la institucion son admitidas.
 
 ### NT4_PRIV y NT4_PUB
 Estas variables excluyentes entre si , y estas indican en promedio cuanto deberia pagar un estudiante para poder garantizarse su asistencia normal a la institucion, ignorando conceptos como la matricula.
